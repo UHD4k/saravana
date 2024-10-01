@@ -10,7 +10,6 @@ bencoding
 cinemagoer
 cloudscraper
 dnspython
-electrogram
 feedparser
 flask
 gevent
